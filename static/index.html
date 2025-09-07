@@ -7,24 +7,26 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <nav>
-      <!-- Navigation links to switch between pages -->
-      <div class="page-links">
-        <span>
-          <a href="#">Employees</a>
-        </span>
-        <span>
-          <a href="#">Organization</a>
-        </span>
-      </div>
-    </nav>
     <header>
+      <div class="topbar">
+        <img
+          src="./assets/pixell-river-logo.png"
+          alt="Pixell River Financial logo"
+          class="logo"
+        />
+        <nav class="page-links">
+          <a href="#">Employees</a>
+          <a href="#">Organization</a>
+        </nav>
+      </div>
+
       <h1>Pixell River Financial</h1>
-      <span>Indigenous owned. Community focused. Future Driven.</span>
+      <p class="tagline">Indigenous owned. Community focused. Future Driven.</p>
     </header>
     <main>
       <h2>Employee Directory</h2>
     </main>
     <footer>Copyright Pixell River Financial <span id="year"></span>.</footer>
+    <script src="script.js"></script>
   </body>
 </html>
