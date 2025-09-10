@@ -1,0 +1,130 @@
+{
+  "departments": [
+    {
+      "name": "Leadership and Management",
+      "employees": [
+        "Jo-Anne Sinclair (CEO/Chair of Board)",
+        "Jackson Smith (COO/VP Operations)",
+        "Susan Thomas (CFO/VP Administration)",
+        "Richa Kaur (VP Client Services)",
+        "Josee Benjamin (CIO)",
+        "Vincent Grey (VP Sales & Marketing)",
+        "Rupa Kharki (Director Financial and Audit Svcs)",
+        "Xun Kuang (Director Human Resources)",
+        "Stien Pedersen (Director Legal Services/General Counsel)",
+        "Sandra Bear (Director Information Technology)",
+        "Gus Blue (Director Information Security and CISSO)",
+        "Sam Kong (Director Accounting)",
+        "Valentine Smith (Director Physical Security)",
+        "Mariya Kaperski (Director Facilities)",
+        "Abd al-Hamid Alami (Manager, Business Continuity and Disaster Recovery)",
+        "Victoria Gray (Manager, Internal Audit)",
+        "Cheryl Guru (Chief Architect)",
+        "Jean Ngoy (Manager, Security Architecture)",
+        "Kris Gold (Solution Architect, Online Banking)",
+        "Isaac Smith (Manager, Application Solutions)",
+        "Payton Frost (Lead Developer, Online Banking)",
+        "Samantha Nettle (Manager, Operational Risk)",
+        "Yolanda Ferreira (Manager, Vendor Relations)",
+        "Samir Hassan (Manager, Purchasing)",
+        "Yuna Aikawa (Manager, Communications)",
+        "Jonathan Carberry (Manager Customer Experience and Community Eng.)",
+        "Roland Wei (Manager of Sales)",
+        "Pran Singh (Manager, Marketing)",
+        "Linda Analyst (Business Analyst, Online Banking)",
+        "Esra Sedge (Manager, Contract Management)",
+        "Pranee Tan (Manager, Compliance Management)",
+        "Karmen Spruce (Manager IT End User Service Desk)",
+        "Haydar Katirci (Manager IT End User Computing)",
+        "Jill Harkness (Manager IT Telecom and Infrastructure)",
+        "Tim Morrison (Manager, Data Center and Hosting Services)",
+        "Aleksandr Milosevic (Manager of IT Risk Management)",
+        "Jim Wingnut (Manager IT, project management office)",
+        "Vacant Role (Expansion 1)",
+        "Vacant Role (Expansion 2)",
+        "Vacant Role (Expansion 3)",
+        "Vacant Role (Expansion 4)",
+        "Vacant Role (Expansion 5)",
+        "Vacant Role (Expansion 6)"
+      ]
+    },
+    {
+      "name": "Administration",
+      "employees": ["Zoë Robins", "Madeleine Madden"]
+    },
+    {
+      "name": "Audit",
+      "employees": ["Josha Sadowski", "Kate Fleetwood"]
+    },
+    {
+      "name": "Banking Operations",
+      "employees": [
+        "Priyanka Bose",
+        "Hammed Animashaun",
+        "Álvaro Morte",
+        "Taylor Napier",
+        "Alan Simmonds"
+      ]
+    },
+    {
+      "name": "Communications",
+      "employees": ["Gil Cardinal", "Richard J. Lewis"]
+    },
+    {
+      "name": "Corporate Services",
+      "employees": ["Randy Bradshaw", "Tracey Cook", "Lubomir Mykytiuk"]
+    },
+    {
+      "name": "Facilities",
+      "employees": [
+        "Dakota House",
+        "Lori Lea Okemah",
+        "Renae Morrisseau",
+        "Rick Belcourt"
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "employees": [
+        "Selina Hanusa",
+        "Buffy Gaudry",
+        "Shaneen Ann Fox",
+        "Allan Little",
+        "Danny Rabbit"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "employees": [
+        "Jesse Ed Azure",
+        "Stacy Da Silva",
+        "Vladimír Valenta",
+        "Samone Sayeses-Whitney",
+        "Paul Coeur"
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "employees": [
+        "Graham Greene",
+        "Sandika Evergreen",
+        "Jennifer Rodriguez (Software Developer)"
+      ]
+    },
+    {
+      "name": "IT Technicians",
+      "employees": [
+        "Aiyana Littlebear",
+        "Inara Thunderbird",
+        "Kaya Runningbrook",
+        "Elara Firehawk",
+        "Siona Moonflower",
+        "Kaiyu Greywolf",
+        "Ayawamat Nightwind",
+        "Tala Braveheart",
+        "Iniko Stonebear",
+        "Onatah Redhawk"
+      ]
+    }
+  ]
+}
